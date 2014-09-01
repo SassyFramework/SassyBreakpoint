@@ -5,7 +5,12 @@ A simple ***breakpoint mixin*** is just all you need!
 ### Required
 
 - Sass 3.3 and up
+- Bower `npm install -g bower`
 
+### Installation
+```ssh
+bower install sassybreakpoint
+```
 
 ### Settings
 ```scss
