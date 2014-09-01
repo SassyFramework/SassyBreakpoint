@@ -9,7 +9,7 @@ A simple ***breakpoint mixin*** is just all you need!
 
 ### Installation
 ```ssh
-bower install sassybreakpoint
+bower install sassybreakpoint --save-dev
 ```
 
 ### Settings
