@@ -1,0 +1,24 @@
+{
+  "name": "SassyBreakpoint",
+  "version": "0.0.1",
+  "authors": [
+    "johngerome <johngerome@gmail.com>"
+  ],
+  "description": "A simple breakpoint mixin is just all you need!",
+  "main": "_SassyBreakpoint.scss",
+  "keywords": [
+    "sass",
+    "breakpoint",
+    "css",
+    "sassyframework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SassyFramework/SassyBreakpoint",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
