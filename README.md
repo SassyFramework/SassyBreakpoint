@@ -80,7 +80,7 @@ Output:
 ```
 
 ### SassyBreakpoint + SassyPlaceholder
-You can extend any placeholder on different directive when combining it with SassyPlaceholder.
+You can extend any placeholder within a @media directive when combining it with [SassyPlaceholder](https://github.com/SassyFramework/SassyPlaceholder).
 
 
 ### License
