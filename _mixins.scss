@@ -1,5 +1,10 @@
 
-// v0.0.1
+// v0.0.2
+
+
+@mixin sf-bp($breakpoint){
+    @include sf-breakpoint($breakpoint);
+}
 
 @mixin sf-breakpoint($breakpoint){
     $value: map-get($sf-breakpoints, $breakpoint);

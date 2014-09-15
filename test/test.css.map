@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAEA,KAAM;EACJ,OAAO,EAAE,MAAM;ECOT,wCAAgB;IDRxB,KAAM;MAGA,KAAK,EAAE,IAAI;MACX,OAAO,EAAE,YAAY;ECInB,kEAAgB;IDRxB,KAAM;MAOA,KAAK,EAAE,IAAI;MACX,OAAO,EAAE,aAAa;ECApB,kEAAgB;IDRxB,KAAM;MAWA,KAAK,EAAE,GAAG;MACV,OAAO,EAAE,YAAY",
-"sources": ["test.scss","../_mixins.scss"],
-"names": [],
-"file": "test.css"
-}
