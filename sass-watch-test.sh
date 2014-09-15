@@ -1,1 +1,1 @@
-sass --watch Test
+sass --watch test
