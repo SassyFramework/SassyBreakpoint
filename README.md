@@ -48,15 +48,15 @@ Scss:
 ```scss
 // create 3 breakpoints for aside
 aside {
-  @include sf-breakpoint("small-only"){
+  @include sf-breakpoint("small-only") {
       width: 100%;
       content: "small-only";
   }
-  @include sf-breakpoint("medium-only"){
+  @include sf-breakpoint("medium-only") {
       width: 80%;
       content: "medium-only";
   }
-  @include sf-breakpoint("large-only"){
+  @include sf-breakpoint("large-only") {
       width: 30%;
       content: "large-only";
   }
